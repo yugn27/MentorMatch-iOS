@@ -10,11 +10,11 @@ import UIKit
 import OpenTok
 
 // Replace with your OpenTok API key
-var kApiKey = "46264292"
+var kApiKey = "Key"
 // Replace with your generated session ID
-var kSessionId = "2_MX40NjI2NDI5Mn5-MTU0OTUyOTE1NjI3MH5pMEdja2pYSFVBZk1BTnNQZjF1UkdDbE9-fg"
+var kSessionId = "Sessionid"
 // Replace with your generated token
-var kToken = "T1==cGFydG5lcl9pZD00NjI2NDI5MiZzaWc9YTNlY2Y3ZjRkODM1MWI5OGU0YTQ4MDM3ZDQ0ZWM4YmVjZWRjN2M0YTpzZXNzaW9uX2lkPTJfTVg0ME5qSTJOREk1TW41LU1UVTBPVFV5T1RFMU5qSTNNSDVwTUVkamEycFlTRlZCWmsxQlRuTlFaakYxVWtkRGJFOS1mZyZjcmVhdGVfdGltZT0xNTQ5NTI5MTY4Jm5vbmNlPTAuOTY1ODg5ODgxNzUzMTY5OCZyb2xlPXB1Ymxpc2hlciZleHBpcmVfdGltZT0xNTUyMTIxMTY4JmluaXRpYWxfbGF5b3V0X2NsYXNzX2xpc3Q9"
+var kToken = "Token"
 
 
 let kWidgetHeight = 320
